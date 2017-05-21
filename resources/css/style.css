@@ -1,7 +1,8 @@
 body {
-  font-family: Helvetica
+  font-family: Helvetica;
+  text-align: center;
 }
-h1,
+.header,
 #design {
   background-image: url('../../resources/images/the-flatiron-building.png')
 }
